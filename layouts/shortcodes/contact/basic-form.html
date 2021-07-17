@@ -1,7 +1,7 @@
   <!-- Copyright 2019 Daniel F. Dickinson,
        Released under the Creative Commons 4.0 BY (Attribution) License -->
 {{ $bURL := urls.Parse $.Site.BaseURL }}
-<form class="contact-form" data-netlify="true" method="post">
+<form class="contact-form" name="contact" netlify-honeypot="human-check" data-netlify="true" method="post">
   <p><label for="name">Name:</label> <input type="text" name="name" id="name" /></p>
   <p><label for="subject">Subject:</label> <input type="text" name="subject" id="subject" /></p>
   <div class="contact-information-wrapper">
