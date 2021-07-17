@@ -1,4 +1,4 @@
-name = "new-oldnew-mashup"
+name = "netlify-new-oldnew-mashup"
 baseURL = "https://new-oldnew-mashup.wildtechgarden.ca/"
 description = "Modules for OldNew Mashup Theme (the new version)"
 
