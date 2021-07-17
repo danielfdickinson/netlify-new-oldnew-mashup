@@ -32,7 +32,7 @@ noptoc: true
         ``hugo server -b http://localhost:1313/``, and browse to
         <http://localhost:1313>.
 4.  For configuration and options see
-    [OldNew Mashup Documentation](https://new-oldnew-mashup.thecshore.com/docs).
+    [OldNew Mashup Documentation](https://new-oldnew-mashup.wildtechgarden.ca/docs).
 
 **NB** If you are deploying from ZIP or tarball and attempt to create
 a site by copying the 'config.toml' from 'exampleSite' into the

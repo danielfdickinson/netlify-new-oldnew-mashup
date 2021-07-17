@@ -1,6 +1,0 @@
-{{ $readme := resources.Get "new-oldnew-mashup-theme-root/README.md" }}
-{{ with $readme }}
-  {{ .Content | safeHTML }}
-{{ else }}
-  README is missing!
-{{ end }}

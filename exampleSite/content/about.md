@@ -1,6 +1,6 @@
 ---
 title: "About New OldNew Mashup"
-copyright: 2018-2020 Daniel F. Dickinson
+copyright: 2018-2021 Daniel F. Dickinson
 licenses:
   - CC-BY-4.0
 weight: -20
@@ -14,10 +14,10 @@ tags:
 ---
 # About New OldNew Mashup
 
-Version 1.3.14
+Version 1.4
 
 ## Examples of Sites Using This Theme
-*   [New OldNew Mashup Demo Site](https://new-oldnew-mashup.thecshore.com)
+*   [New OldNew Mashup Demo Site](https://new-oldnew-mashup.wildtechgarden.ca)
 
 ## Example Site
 
@@ -49,16 +49,6 @@ which means you can set the 'weight' metadata in the front-matter of
 pages that are not naturally in the order you wish (basic ordering
 is by date).  Lower weight sorts earlier.
 
-### Search
-
-This theme implements a search functionality using Fuse.js, and
-fusebar.js.
-
-### Contact Form
-
-The theme includes basic support for a contact form (given an
-appropriate server-side POST receiver).
-
 ### A note on displaying copyright / licenses
 
 This theme has an archetype and taxonomy that make it easy to indicate
@@ -68,7 +58,7 @@ in a copyright field.
 
 ```yaml
 ---
-copyright: © 2020 Daniel F. Dickinson
+copyright: © 2021 Daniel F. Dickinson
 licenses:
   - CC-BY-4.0
 ---
@@ -109,8 +99,8 @@ Hugo Taxonomies are implemented.
 ## Documentation & Quick Start
 
 If you are interested in this theme you may wish to view the
-[New OldNew Mashup Documentation](https://new-oldnew-mashup.thecshore.com/docs/),
-and especially the [New OldNew Mashup Quick Start Guide](https://new-oldnew-mashup.thecshore.com/docs/quick-start/).
+[New OldNew Mashup Documentation](https://new-oldnew-mashup.wildtechgarden.ca/docs/),
+and especially the [New OldNew Mashup Quick Start Guide](https://new-oldnew-mashup.wildtechgarden.ca/docs/quick-start/).
 
 ## Hugo Extended
 
@@ -147,7 +137,7 @@ This project is no longer developed and is unmaintained.
 
 ## Copyright & License
 
-© 2009-2020 Daniel F. Dickinson
+© 2009-2021 Daniel F. Dickinson
 Licensed under the [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/)
 [![Creative Commons License](by.svg)](https://creativecommons.org/licenses/by/4.0/)
 

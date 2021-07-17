@@ -1,14 +1,18 @@
 # OldNew Mashup
 
-Version 1.3.14
+Version 1.4
 
 ## Status
 
-If you wish you can view the [Status of New OldNew Mashup on Github](https://github.com/cshoredaniel/new-oldnew-mashup/blob/master/STATUS.md)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/974042b8-f8fc-497a-bd85-eaea77f33de6/deploy-status)](https://app.netlify.com/sites/new-oldnew-mashup/deploys)
+## HISTORICAL ONLY
+
+This theme and related site are not in active development and are preserved for historical purposes only.
+
+Some documentation may no longer apply or be out of date.
 
 ## Examples of Sites Using This Theme
-*   [The C Shore](https://www.thecshore.com)
-*   [New OldNew Mashup Demo Site](https://new-oldnew-mashup.thecshore.com)
+*   [New OldNew Mashup Demo Site](https://new-oldnew-mashup.wildtechgarden.ca)
 
 ## Example Site
 
@@ -39,11 +43,6 @@ The linear traversal mentioned above uses Hugo's default Page ordering,
 which means you can set the 'weight' metadata in the front-matter of
 pages that are not naturally in the order you wish (basic ordering
 is by date).  Lower weight sorts earlier.
-
-### Search
-
-This theme implements a search functionality using Fuse.js, and
-fusebar.js.
 
 ### Contact Form
 
@@ -100,8 +99,8 @@ Hugo Taxonomies are implemented.
 ## Documentation & Quick Start
 
 If you are interested in this theme you may wish to view the
-[New OldNew Mashup Documentation](https://new-oldnew-mashup.thecshore.com/docs/),
-and especially the [New OldNew Mashup Quick Start Guide](https://new-oldnew-mashup.thecshore.com/docs/quick-start/).
+[New OldNew Mashup Documentation](https://new-oldnew-mashup.wildtechgarden.ca/docs/),
+and especially the [New OldNew Mashup Quick Start Guide](https://new-oldnew-mashup.wildtechgarden.ca/docs/quick-start/).
 
 ## Hugo Extended
 
