@@ -8,7 +8,7 @@ enableGitInfo = true
 theme = 'netlify-new-oldnew-mashup'
 summaryLength = 60
 description = "Sample site for OldNew Mashup Theme (the new version)"
-themesDir = "../.."
+themesDir = ".."
 min_version = "0.85.0"
 extended = false
 
