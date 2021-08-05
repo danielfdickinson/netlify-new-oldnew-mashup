@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: https://new-oldnew-mashup.wildtechgarden.ca/sitemap.xml

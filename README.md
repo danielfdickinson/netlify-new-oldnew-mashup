@@ -5,7 +5,7 @@ Version 1.4
 ## Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/974042b8-f8fc-497a-bd85-eaea77f33de6/deploy-status)](https://app.netlify.com/sites/new-oldnew-mashup/deploys)
-## HISTORICAL ONLY
+## HISTORICAL ONLY (ARCHIVED)
 
 This theme and related site are not in active development and are preserved for historical purposes only.
 
