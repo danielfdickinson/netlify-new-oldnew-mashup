@@ -1,19 +1,18 @@
-  <!-- Copyright 2019 Daniel F. Dickinson,
-       Released under the Creative Commons 4.0 BY (Attribution) License -->
-{{ $bURL := urls.Parse $.Site.BaseURL }}
 <form class="contact-form" name="contact" netlify-honeypot="human-check" data-netlify="true" method="post">
-  <p><label for="name">Name:</label> <input type="text" name="name" id="name" /></p>
-  <p><label for="subject">Subject:</label> <input type="text" name="subject" id="subject" /></p>
+  <p><label for="name">Name: <input type="text" name="name" id="name" /></label></p>
+  <p><label for="subject">Subject: <input type="text" name="subject" id="subject" /></label></p>
   <div class="contact-information-wrapper">
-    <label for="contact-information">Contact Information:</label>
+    <label for="contact-information">Contact Information:
     <textarea class="contact-information" name="contact-information" id="contact-information"></textarea>
+    </label>
   </div>
   <div class="question-comment-wrapper">
-    <label for="question-comment">Question or Comment:</label>
+    <label for="question-comment">Question or Comment:
     <textarea class="question-comment" name="question-comment" id="question-comment"></textarea>
+    </label>
   </div>
   <div>
-        <label>Don’t add your website here, if you’re human: <input name="human-check" /></label>
+        <label>Don’t add your website here, if you’re human: <input id="human-check" name="human-check" type="text" /></label>
   </div>
   <p><input type="submit" value="Send" size="6" /> <input type="reset" value="Reset" size="6" /></p>
 </form>
