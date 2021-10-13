@@ -1,4 +1,4 @@
-module netlify-new-oldnew-mashup/exampleSite
+module github.com/danielfdickinson/netlify-new-oldnew-mashup/exampleSite
 
 go 1.16
 
